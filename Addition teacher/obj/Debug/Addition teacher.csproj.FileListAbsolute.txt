@@ -1,0 +1,14 @@
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\bin\Debug\Addition teacher.exe.config
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\bin\Debug\Addition teacher.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\bin\Debug\Addition teacher.pdb
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition teacher.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition teacher_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition teacher_MarkupCompile.lref
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition teacher.g.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition_teacher.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition teacher.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition teacher.exe
+c:\users\gods1\documents\visual studio 2015\Projects\Addition teacher\Addition teacher\obj\Debug\Addition teacher.pdb
